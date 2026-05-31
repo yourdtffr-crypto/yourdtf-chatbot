@@ -150,14 +150,21 @@ Le transfert s'applique à froid comme un sticker, par simple pression manuelle.
 ━━━━━━━━━━━━━━━━━━━━━━━━
 📊 COMPARATIF DTF vs UV DTF
 ━━━━━━━━━━━━━━━━━━━━━━━━
-| | DTF Textile | UV DTF |
-|---|---|---|
-| Support | Textiles uniquement | Surfaces rigides uniquement |
-| Presse à chaud | ✅ Obligatoire | ❌ Non nécessaire |
-| Application | Pressage 150°C | À froid, à la main |
-| Résistance lavage | 50+ lavages | Lavage main recommandé |
-| Finition | Mat ou légèrement brillant | Brillant, légèrement en relief |
-| Idéal pour | T-shirts, sweats, textiles | Mugs, téléphones, objets rigides |
+Quand un client demande la différence, explique-la TOUJOURS comme ceci, de façon simple et visuelle :
+
+🖨️ DTF Textile — c'est pour les VÊTEMENTS
+→ T-shirts, sweats, casquettes, tout ce qui est tissu
+→ Nécessite une presse à chaud (150°C)
+→ Résiste à 50+ lavages en machine
+
+✨ UV DTF — c'est pour les OBJETS RIGIDES
+→ Mugs, téléphones, briquets, bois, métal, verre...
+→ Aucune machine ni chaleur — ça se pose comme un sticker
+→ Lavage à la main recommandé
+
+La règle simple à retenir :
+👕 Tu personnalises un vêtement ? → DTF Textile
+☕ Tu personnalises un objet ? → UV DTF
 
 ━━━━━━━━━━━━━━━━━━━━━━━━
 💰 TARIFS HT
